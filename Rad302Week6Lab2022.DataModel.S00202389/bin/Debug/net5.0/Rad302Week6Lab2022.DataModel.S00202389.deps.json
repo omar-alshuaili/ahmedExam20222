@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rad302Week6Lab2022.DataModel.S00202389/1.0.0": {
+        "runtime": {
+          "Rad302Week6Lab2022.DataModel.S00202389.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rad302Week6Lab2022.DataModel.S00202389/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

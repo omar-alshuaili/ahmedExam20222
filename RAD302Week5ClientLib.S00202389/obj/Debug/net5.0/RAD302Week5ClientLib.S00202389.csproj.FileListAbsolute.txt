@@ -1,0 +1,15 @@
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\RAD302Week5ClientLib.S00202389.deps.json
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\RAD302Week5ClientLib.S00202389.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\ref\RAD302Week5ClientLib.S00202389.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\RAD302Week5ClientLib.S00202389.pdb
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\RAD302Week5DataLayer.S00202389.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\bin\Debug\net5.0\RAD302Week5DataLayer.S00202389.pdb
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.csproj.AssemblyReference.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.AssemblyInfoInputs.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.AssemblyInfo.cs
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.csproj.CoreCompileInputs.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.csproj.CopyComplete
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\ref\RAD302Week5ClientLib.S00202389.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\RAD302Week5ClientLib.S00202389\obj\Debug\net5.0\RAD302Week5ClientLib.S00202389.pdb

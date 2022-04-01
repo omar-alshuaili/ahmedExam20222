@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RAD302Week5ClientLib.S00202389\RAD302Week5ClientLib.S00202389.csproj" />
+  </ItemGroup>
+
+</Project>

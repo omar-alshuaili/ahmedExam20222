@@ -1,0 +1,15 @@
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ProductModel.deps.json
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ProductModel.runtimeconfig.json
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ProductModel.runtimeconfig.dev.json
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ProductModel.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ref\ProductModel.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\bin\Debug\net5.0\ProductModel.pdb
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.csproj.AssemblyReference.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.AssemblyInfoInputs.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.AssemblyInfo.cs
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.csproj.CoreCompileInputs.cache
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ref\ProductModel.dll
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.pdb
+C:\Users\S00202389\source\repos\RAD302Week5WebAPI.S00202389\ProductModel\obj\Debug\net5.0\ProductModel.genruntimeconfig.cache

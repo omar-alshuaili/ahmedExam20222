@@ -1,0 +1,67 @@
+﻿@page "/supplierproduct/{SupplierID:int}"
+
+
+
+<h3>SupplierProducts</h3>
+
+
+
+<h1 class="page-title">Details for @Current.CompanyName</h1>
+
+
+
+<div class="col-12 row">
+    <div class="col-12 row">
+        <div class="col-xs-12 col-sm-8">
+            <div class="form-group row">
+                <label class="col-sm-4 col-form-label">Supplier ID</label>
+                <div class="col-sm-8">
+                    <label type="text" class="form-control-plaintext">@Current.SupplierID</label>
+                </div>
+            </div>
+
+
+
+            <div class="form-group row">
+                <label class="col-sm-4 col-form-label">Supplier Address</label>
+                <div class="col-sm-8">
+                    <label type="text" class="form-control-plaintext">@Current.Address</label>
+                </div>
+            </div>
+
+
+
+            <div class="form-group row">
+                <label class="col-sm-4 col-form-label">Contact Name</label>
+                <div class="col-sm-8">
+                    <label type="text" class="form-control-plaintext">@Current.ContactName</label>
+                </div>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>Description</th>
+            <th>Qty in Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Current.SupplierProducts)
+        {
+            <tr>
+                <td>p.ID</td>
+                <td>p.Description</td>
+                <td>p.StockOnHand</td>
+            </tr>
+        }
+    </tbody>
+</table>
